@@ -32,7 +32,16 @@
             </intent-filter>
         </activity>
         <activity android:name=".SetAQuestion3B"></activity>
+        <activity
+            android:name=".SetBQuestion1"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SetBQuestion1B"></activity>
     </application>
 
 </manifest>
