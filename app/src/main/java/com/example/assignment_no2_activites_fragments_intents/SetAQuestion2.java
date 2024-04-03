@@ -4,11 +4,11 @@ package com.example.assignment_no2_activites_fragments_intents;
        2.Create a simple application which send hello message from one activity to another
          with help of Button(Use intent).
  */
-import android.content.Intent;
+
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
+import android.content.Intent;
 import androidx.appcompat.app.AppCompatActivity;
 public class SetAQuestion2 extends AppCompatActivity{
 
