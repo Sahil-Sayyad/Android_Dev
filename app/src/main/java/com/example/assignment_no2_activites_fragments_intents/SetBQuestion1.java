@@ -1,5 +1,9 @@
 package com.example.assignment_no2_activites_fragments_intents;
 
+/* SET B
+*       1.Create simple application with login screen. On successful login, gives message go to next
+*         Activity(Without using database).
+* */
 import android.os.Bundle;
 import android.content.Intent;
 import android.view.View;

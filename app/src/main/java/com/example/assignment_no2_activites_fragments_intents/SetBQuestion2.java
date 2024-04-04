@@ -1,5 +1,10 @@
 package com.example.assignment_no2_activites_fragments_intents;
 
+/* SET B
+*      2.Create First Activity to accept information like student First Name, Middle Name, Last Name,
+*        Date of Birth, Address, Email Id and Display all information on Second Activity when user click
+*        on Submit button.
+* */
 import android.os.Bundle;
 import android.content.Intent;
 import android.view.View;
