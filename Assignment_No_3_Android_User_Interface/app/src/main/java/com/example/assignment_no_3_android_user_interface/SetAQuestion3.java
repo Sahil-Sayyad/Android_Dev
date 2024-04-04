@@ -1,5 +1,8 @@
 package com.example.assignment_no_3_android_user_interface;
 
+/* SET A
+*       3.Create the simple calculator shown below also perform appropriate operation.
+* */
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.widget.Button;
