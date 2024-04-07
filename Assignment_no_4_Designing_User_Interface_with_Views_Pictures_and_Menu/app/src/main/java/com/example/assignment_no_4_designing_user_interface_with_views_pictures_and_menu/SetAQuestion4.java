@@ -1,5 +1,9 @@
 package com.example.assignment_no_4_designing_user_interface_with_views_pictures_and_menu;
 
+/*
+* SET A
+*     4.Construct an app that toggles a light bulb on and off when the user clicks on toggle button.
+* */
 import android.os.Bundle;
 import android.widget.ToggleButton;
 import android.widget.ImageView;
