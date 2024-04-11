@@ -1,5 +1,9 @@
 package com.example.databases_sqllite_messages_email;
 
+/*
+* SET A
+*      5.Create application to send Email.
+* */
 import android.os.Bundle;
 import android.widget.EditText;
 import android.widget.Button;

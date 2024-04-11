@@ -1,5 +1,9 @@
 package com.example.databases_sqllite_messages_email;
 
+/*
+* SET A
+*      3.Create application to send and receive messages using SMSManager.
+* */
 import android.Manifest;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
